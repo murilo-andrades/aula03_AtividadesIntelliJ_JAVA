@@ -23,7 +23,7 @@ public class aula_03 {
 
         System.out.println("Valor do produto: "+ preco);
         System.out.println("Valor do desconto: "+ porcentagem);
-        System.out.println("Valor do produto com desconto: "+precoComDesconto)
+        System.out.println("Valor do produto com desconto: "+precoComDesconto);
                 
     }
 
